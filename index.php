@@ -10,7 +10,8 @@
 </head>
 <body>
 <div class="container">
-        <h2>Basic Calculator</h2>
+        <h2>Basic Calculator For PHP Batch-2</h2>
+        
         <form method="post" action="">
             <input type="number" name="num1" placeholder="Enter first number" required><br>
             <input type="number" name="num2" placeholder="Enter second number" required><br>
